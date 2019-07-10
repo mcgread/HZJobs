@@ -1,0 +1,118 @@
+---
+enable html: true
+---
+#  数组、链表
+* #### [ 26\. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+* #### [189\. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+* #### [21\. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+* #### [88\. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+* #### [24\. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+* #### [15\. 三数之和](https://leetcode-cn.com/problems/3sum/)
+
+#  Map & Set
+* #### [242\. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+* #### [49\. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
+
+#  堆栈、队列
+* #### [1047\. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
+* #### [1021\. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
+* #### [84\. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
+* #### [42\. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+
+# 二分查找
+
+* #### [441\. 排列硬币](https://leetcode-cn.com/problems/arranging-coins/)
+* #### [50\. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+* #### [174\. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)
+
+# 递归
+* #### [104\. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+* #### [101\. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+* #### [111\. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+* #### [783\. 二叉搜索树结点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)
+* #### [257\. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
+* #### [938\. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)
+* #### [236\. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+# 哈希表
+* #### [1\. 两数之和](https://leetcode-cn.com/problems/two-sum/) ,[b01-链接](b01-链接)
+* #### [242\. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+* #### [3\. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+* #### [692\. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
+* #### [726\. 原子的数量](https://leetcode-cn.com/problems/number-of-atoms/)
+
+# 二叉树
+* #### [111\. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+* #### [236\. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+* #### [101\. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+* #### [103\. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+* #### [102\. 二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+* #### [297\. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+
+# 二叉搜索树
+* #### [783\. 二叉搜索树结点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)
+* #### [235\. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* #### [98\. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+* #### [938\. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)
+* #### [220\. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)
+* #### [315\. 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)
+
+# 图
+* #### [210\. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
+* #### [200\. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+
+# 堆和排序
+* #### [703\. 数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
+* #### [295\. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)
+
+# DFS
+* #### [104\. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+* #### [111\. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+* #### [547\. 朋友圈](https://leetcode-cn.com/problems/friend-circles/)
+* #### [802\. 找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/)
+* #### [329\. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
+* #### [529\. 扫雷游戏](https://leetcode-cn.com/problems/minesweeper/)
+* #### [127\. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)
+
+# BFS
+* #### [429\. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
+* #### [102\. 二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+* #### [107\. 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+* #### [703\. 数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
+* #### [103\. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+* #### [529\. 扫雷游戏](https://leetcode-cn.com/problems/minesweeper/)
+* #### [310\. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/)
+
+# Trie树
+* #### [720\. 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
+* #### [208\. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+* #### [211\. 添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)
+* #### [212\. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
+
+# 分治算法
+* #### [169\. 求众数](https://leetcode-cn.com/problems/majority-element/)
+* #### [53\. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+* #### [240\. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
+
+# 贪心算法
+* #### [455\. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
+* #### [714\. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+
+# 回溯算法
+* #### [784\. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)
+* #### [78\. 子集](https://leetcode-cn.com/problems/subsets/)
+* #### [46\. 全排列](https://leetcode-cn.com/problems/permutations/)
+* #### [77\. 组合](https://leetcode-cn.com/problems/combinations/)
+* #### [51\. N皇后](https://leetcode-cn.com/problems/n-queens/)
+
+# 动态规划
+* #### [70\. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+* #### [309\. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+* #### [188\. 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)
+* #### [123\. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
+* #### [198\. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
+* #### [213\. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
+* #### [337\. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)
+* #### [62\. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
+* #### [63\. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
+
