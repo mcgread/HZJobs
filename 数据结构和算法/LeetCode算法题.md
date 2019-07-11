@@ -3,6 +3,7 @@ enable html: true
 ---
 #  数组、链表
 * #### [ 26\. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+   * [题目](remove-duplicates-from-sorted)
 * #### [189\. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
 * #### [21\. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 * #### [88\. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
